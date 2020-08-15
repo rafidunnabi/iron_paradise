@@ -83,10 +83,6 @@
         \nWe can do this by eating less and as well as working out to see faster results.So a good diet and workout plan is essential.</string>
 
 
-
-
-
-
     <string name="lose_fat_diet_plan_text">
         There are few things to keep in mind when dieting for just to lose weight
         \n\n1.High protein intake
@@ -98,7 +94,6 @@
     </string>
 
 
-
     <string name="proteintxt">The food we eat takes energy to digest it in our body. Protein has a higher thermic effect of food, means it will take more energy to process the protein
                                 \nso we will be burning more calories by eating more protein. Besides by eating more protein dense foods we easily lose the will
                                 of eating so we will never end up binge eating and control our diet. On top of that protein helps to retain muscle mass and more muscles needs more energy to function thus more calories would be burn.
@@ -106,8 +101,6 @@
 
 
     </string>
-
-
 
 
     <string name="calorie_dense_food">Foods that are high in calorie but has less nutrient values.Even consuming a small amount
@@ -118,14 +111,9 @@
     </string>
 
 
-
-
-
-
     <string name="fibre">Foods that are rich in fibre are filled with imoprtant vitamins but most importantly they are low calorie foods and consuming these foods
                           will make u full easily. These are the green vegetables, lettuce, spinach, broccoli, carrot and also the fruits such as apples,berries,banana etc
     </string>
-
 
 
     <string name="workout_plan_for_weightloss">When the goal is particularly to lose weight, the best form of exercise is Cardio.
